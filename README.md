@@ -1,6 +1,3 @@
-# breakFromCommercial2
-
-
 This is how i use the app:
 - open YouTube app and the app in 'split screen' mode
 - when an ad comes, mute sound with 'mute/unmute' button
