@@ -5,3 +5,4 @@ This is how i use the app:
 
 (use 'Files' option - the one on the right - when asked for file explorer, because it doesn't start in full screen mode)
 
+![photoOut](https://github.com/Karabinkowy/BreakFromCommercial/assets/94082577/5bcf859e-852c-4618-8f47-9b68a050bcca)
